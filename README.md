@@ -1,2 +1,2 @@
-# Image-Processing-Assingment
+# Image-Processing-Assignment
 In this script, a selection of images of coloured matrices/grids with varying levels of distortion was taken as an input, and the output was a corrected image. In addition the script also determines the colour sequence of each matrix. This project was very successful and 100% accuracy was achieved, although this solution may not work well for all images as the colour ranges are very specific to the inputs we were given. By playing around with the colour detection function ranges, or developing a different method entirely, it will most likely work for any colour matrix.
